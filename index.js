@@ -11,7 +11,7 @@ window.onload = function() {
     }
     number.innerHTML = random;
     top.innerHTML = symbol;
-    bottom.innerHTML = symbol;
+    bottom.innerHTML = symbol; 
     
 };
 function getRandom(max){
