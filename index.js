@@ -1,5 +1,5 @@
 window.onload = function() {
-    
+     
     let number = document.querySelector('#number');
     let random = getRandom(11);
     let symbol = getSymbol(getRandom(4));
